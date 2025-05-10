@@ -9,3 +9,5 @@ _Ahh yes..._ Making buttons. I remember really struggling with layering here. It
 From assignment 6 and on, I started to have a ton of fun with it. In lab7 I struggled hard to make a timer, _**why is it millis and not delay** actually disgusting_ But learning new commands like lerp and making my own speech bubble was really fun
 ###### Lab Assignment 10 
 **Here we go**, adding a library and learning new fuctions and variables, I even joined the discord of the p5play team, and it's just really funny to learn that they hate p5 and sent multiple complaints for bugfixes to no response.
+##### Final Project Added
+updated for final 9/5/25
