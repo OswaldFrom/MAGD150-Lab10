@@ -1,4 +1,4 @@
-# MAGD150-Lab10
+# MAGD150-Full Project Set
 _I added all of my old Lab Assignments here for MAGD150_
 ###### **This is mostly a collection of learning experiences and moments from my early to newer Labs*
 ###### Lab Assignment 2
